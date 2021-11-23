@@ -1,6 +1,6 @@
 from getpass import getpass
 
-kullanıci = "Veysel Saki Çakır"
+kullanıci = "xabnzk"
 Sifre = "abuzer"
 
 kullanici_giris_isim = input(" Kullanıcı Adı =>")
